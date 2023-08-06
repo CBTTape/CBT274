@@ -1,0 +1,30 @@
+2023-08-06 02:38:16.263032 - Initialized conversion of CBT274
+2023-08-06 02:38:16.445772 - Received CBT.V505.FILE274.PDS from FILE274.XMI 
+2023-08-06 02:38:16.448125 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:38:16.448135 - Found ##V4R1M1.bin containing application/octet-stream, moved to PDS/##V4R1M1
+2023-08-06 02:38:16.449168 - Found #CPYRITE.bin containing application/octet-stream, moved to PDS/#CPYRITE
+2023-08-06 02:38:16.450223 - Found #DISTRIB.bin containing application/octet-stream, moved to PDS/#DISTRIB
+2023-08-06 02:38:16.451158 - Found #FEATURE.bin containing application/octet-stream, moved to PDS/#FEATURE
+2023-08-06 02:38:16.452159 - Found #INSTALL.bin containing application/octet-stream, moved to PDS/#INSTALL
+2023-08-06 02:38:16.454110 - Found #USERGDE.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/#USERGDE
+2023-08-06 02:38:16.455082 - Found #YSP411.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/#YSP411
+2023-08-06 02:38:16.455986 - Found #YTEMP1.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/#YTEMP1
+2023-08-06 02:38:16.455994 - Found #YVP001.bin containing application/octet-stream, moved to PDS/#YVP001
+2023-08-06 02:38:16.456853 - Found #YVP002.bin containing application/octet-stream, moved to PDS/#YVP002
+2023-08-06 02:38:16.458668 - Found @FILE274.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/@FILE274
+2023-08-06 02:38:16.459641 - Found IEFCNDSN.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNDSN
+2023-08-06 02:38:16.460520 - Found IEFCNFSA.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNFSA
+2023-08-06 02:38:16.461392 - Found IEFCNMSG.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNMSG
+2023-08-06 02:38:16.462329 - Found IEFCNOPT.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNOPT
+2023-08-06 02:38:16.463316 - Found IEFCNPPW.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNPPW
+2023-08-06 02:38:16.464244 - Found IEFCNTRC.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNTRC
+2023-08-06 02:38:16.465263 - Found IEFCNVJI.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNVJI
+2023-08-06 02:38:16.466155 - Found IEFCNVJX.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNVJX
+2023-08-06 02:38:16.467093 - Found IEFCNVLS.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNVLS
+2023-08-06 02:38:16.467955 - Found IEFCNVOP.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNVOP
+2023-08-06 02:38:16.469165 - Found IEFCNVPP.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNVPP
+2023-08-06 02:38:16.470148 - Found IEFCNVSI.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNVSI
+2023-08-06 02:38:16.471132 - Found IEFCNVSX.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNVSX
+2023-08-06 02:38:16.472031 - Found IEFCNVTI.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNVTI
+2023-08-06 02:38:16.472979 - Found IEFCNVTX.txt (text/plain) in CBT.V505.FILE274.PDS, moved to PDS/IEFCNVTX
+2023-08-06 02:38:16.472987 - Found VPP4411.bin containing application/octet-stream, moved to PDS/VPP4411
